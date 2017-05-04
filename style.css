@@ -16,10 +16,11 @@ nav{
 
 .output_view{
     background-image: url(images/bubble.jpg);
-  text-align: center;
+    text-align: center;
 }
 
 .output_text{
   background-image: url(images/talkbubble.png);
   padding:5px;
+  text-align:center;
 }
