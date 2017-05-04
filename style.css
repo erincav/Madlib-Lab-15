@@ -45,8 +45,7 @@ form{
 
 .output_text{
   background-color:white;
-  text-align: center;
-  margin:auto;
+  margin:10px;
   width:30%;
   padding:10px;
   border-style:solid;
