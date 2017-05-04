@@ -25,17 +25,24 @@ nav{
     background-repeat: no-repeat;
     text-align: center;
     margin:auto;
-    height:80%;
-    width:80%;
+    height:600px;
+    width:600px;
+    padding:10px;
+}
+
+form{
+  width:75%;
+  margin:auto;
 }
 
 .output_text{
   background-image: url(images/talkbubble.png);
   background-size: cover;
   background-repeat: no-repeat;
-  height:80%;
-  width:80%;
-  padding:5px;
+  text-align: center;
   margin:auto;
+  height:600px;
+  width:600px;
+  padding:10px;
   text-align:center;
 }
