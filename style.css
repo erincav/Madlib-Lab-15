@@ -28,16 +28,14 @@ nav{
 .form_view{
     background-image: url(images/bubble.jpg);
 }
-.form_info{
-    text-align:center;
-}
 input{
   padding:3px;
 }
 
 .form_info{
-  width: 75%;
-  margin: 250px 10px 10px 80px;
+  width: 70%;
+  margin:220px 10px 10px 90px;
+  text-align:center;
 }
 
 form{
