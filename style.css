@@ -28,17 +28,19 @@ nav{
 .form_view{
     background-image: url(images/bubble.jpg);
 }
-
 .form_info{
     text-align:center;
 }
 input{
   padding:3px;
 }
-form{
+
+.form_info{
   width: 75%;
   margin: 250px 10px 10px 80px;
-  text-decoration: none;
+}
+
+form{
   font-size: 16px;
 }
 
