@@ -9,18 +9,31 @@ nav{
 
 }
 
-.form_view{
+.output_view{
   background-image: url(images/batman.jpg);
   text-align: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  margin:auto;
+  height:80%;
+  width:80%;
 }
 
-.output_view{
+.form_view{
     background-image: url(images/bubble.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
     text-align: center;
+    margin:auto;
+    height:80%;
+    width:80%;
 }
 
 .output_text{
   background-image: url(images/talkbubble.png);
+  height:200px;
+  width:200px;
   padding:5px;
+  margin:auto;
   text-align:center;
 }
