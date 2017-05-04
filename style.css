@@ -1,18 +1,25 @@
 nav{
   background-color:white;
   border-color: black;
-  border-width: thick;
+  border-width: 3px;
+  border: 10px;
   padding:5px;
+  text-align:center;
+  color:black;
+
 }
 
 .form_view{
+  background-image: url(images/batman.jpg);
   text-align: center;
 }
 
 .output_view{
+    background-image: url(images/bubble.jpg);
   text-align: center;
 }
 
-body{
-  background-color:green;
+.output_text{
+  background-image: url(images/talkbubble.png);
+  padding:5px;
 }
