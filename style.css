@@ -13,6 +13,7 @@ nav{
   background-image: url(images/batman.jpg);
   background-size: cover;
   background-repeat: no-repeat;
+  border-style:solid;
   border-color: black;
   border-width: 3px;
   text-align: center;
@@ -26,6 +27,7 @@ nav{
     background-image: url(images/bubble.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    border-style:solid;
     border-color: black;
     border-width: 3px;
     text-align: center;
@@ -36,18 +38,18 @@ nav{
 }
 
 form{
-  width:75%;
+  width:50%;
   margin:auto;
+  position:relative;
 }
 
 .output_text{
-  background-image: url(images/talkbubble.png);
-  background-size: cover;
-  background-repeat: no-repeat;
+  background-color:white;
   text-align: center;
   margin:auto;
-  width:50%;
-  height:auto;
+  width:30%;
   padding:10px;
-  text-align:center;
+  border-style:solid;
+  border-color: black;
+  border-width: 3px;
 }
