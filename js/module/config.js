@@ -10,5 +10,10 @@ app.config(function($routeProvider){
     templateUrl: "views/output.html",
     controller: "outputController"
   });
-  
+
+  $routeProvider.otherwise('/form',{
+    templateUrl: "views/form.html",
+    controller: "formController"
+  });
+
 });
