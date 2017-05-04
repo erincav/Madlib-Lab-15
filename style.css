@@ -1,7 +1,4 @@
 nav{
-  border-color: black;
-  border-width: 3px;
-  border: 10px;
   padding:5px;
   text-align:center;
   color:black;
@@ -21,31 +18,19 @@ nav{
   width:650px;
   padding:10px;
 }
-.output_view{
-  background-image: url(images/batman.jpg);
-}
+.output_view{ background-image: url(images/batman.jpg);}
+.form_view{background-image: url(images/bubble.jpg);}
 
-.form_view{
-    background-image: url(images/bubble.jpg);
-}
-input{
-  padding:3px;
-}
-
-.form_info{
-  width: 70%;
-  margin:220px 10px 10px 90px;
-  text-align:center;
-}
+input{ padding:3px;}
 
 form{
   font-size: 16px;
+  width: 70%;
+  margin: 220px 10px 10px 120px;
+  text-align: center;
 }
 
-h3{
-  padding:1px;
-  text-align:center;
-}
+h3{ padding:1px; text-align:center;}
 
 .output_text{
   background-color:white;
