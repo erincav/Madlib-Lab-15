@@ -9,6 +9,6 @@ app.config(function($routeProvider){
   $routeProvider.when('/output', {
     templateUrl: "views/output.html",
     controller: "outputController"
-
   });
+  
 });
