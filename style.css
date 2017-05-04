@@ -1,0 +1,14 @@
+nav{
+  background-color:white;
+  border-color: black;
+  border-width: thick;
+  padding:5px;
+}
+
+.form_view{
+  text-align: center;
+}
+
+.output_view{
+  text-align: center;
+}
