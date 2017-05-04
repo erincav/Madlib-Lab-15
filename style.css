@@ -11,18 +11,23 @@ nav{
 
 .output_view{
   background-image: url(images/batman.jpg);
-  text-align: center;
   background-size: cover;
   background-repeat: no-repeat;
+  border-color: black;
+  border-width: 3px;
+  text-align: center;
   margin:auto;
-  height:80%;
-  width:80%;
+  height:600px;
+  width:600px;
+  padding:10px;
 }
 
 .form_view{
     background-image: url(images/bubble.jpg);
     background-size: cover;
     background-repeat: no-repeat;
+    border-color: black;
+    border-width: 3px;
     text-align: center;
     margin:auto;
     height:600px;
@@ -41,8 +46,8 @@ form{
   background-repeat: no-repeat;
   text-align: center;
   margin:auto;
-  height:600px;
-  width:600px;
+  width:50%;
+  height:auto;
   padding:10px;
   text-align:center;
 }
