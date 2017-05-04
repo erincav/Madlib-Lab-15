@@ -28,6 +28,10 @@ nav{
 .form_view{
     background-image: url(images/bubble.jpg);
 }
+
+.form_info{
+    text-align:center;
+}
 input{
   padding:3px;
 }
@@ -40,17 +44,17 @@ form{
 
 h3{
   padding:1px;
+  text-align:center;
 }
 
-h2{
-  padding:1px;
-}
 .output_text{
   background-color:white;
   margin: 10px;
-  width: 65%;
+  width: 30%;
   padding: 5px 15px;
   border-style:solid;
   border-color: black;
   border-width: 3px;
+  float: right;
+  text-align: left;
 }
